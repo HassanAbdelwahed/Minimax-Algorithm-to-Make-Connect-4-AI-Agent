@@ -1,4 +1,5 @@
 # Minimax-Algorithm-to-Make-Connect-4-AI-Agent
+Implementation of Minimax Algorithm with alpha-beta pruning and without alpha-beta pruning.
 ## Game Description
 Connect 4 is a two-player game in which the players first choose a color and then take turns
 dropping their colored discs from the top into a grid. The pieces fall straight down, occupying
